@@ -17,3 +17,7 @@ let user : {
     isMarried:false
 }
 
+/// you can not do that because it is read only ---------
+
+// user.location = "usa":
+

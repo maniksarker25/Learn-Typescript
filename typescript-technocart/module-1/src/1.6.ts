@@ -11,7 +11,7 @@ add(20, 20);
 
 const sum = (num1: number, num2: number): number => num1 + num2;
 
-// object -> function ->------method
+// object -> function ->------method--------
 
 const poorUser = {
   name: "manik sarker",
