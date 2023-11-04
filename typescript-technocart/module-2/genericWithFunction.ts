@@ -47,6 +47,15 @@
     name: "manik",
     email: "manik@gmail.com",
   });
+  const result2 = addCourseToStudent<{
+    name: string;
+    email: string;
+    hashWatch: string;
+  }>({
+    name: "manik",
+    email: "manik@gmail.com",
+    hashWatch: "apple",
+  });
 
   //
 }
