@@ -1,6 +1,6 @@
 {
   // Learn constraint ---------------------------
-
+  
   const addCourseToStudent = <
     T extends { id: number; name: string; email: string }
   >(
