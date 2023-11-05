@@ -62,7 +62,7 @@
     },
   ];
 
-  // General tuple -----------------------
+  // Generic  tuple -----------------------
 
   type GenericTuple<X, Y> = [X, Y];
   const manus: GenericTuple<string, string> = ["Mr x", "Ms x"];
